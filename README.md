@@ -1,11 +1,34 @@
-# Basic javascript app built with React Js framework.
+# React Robofriends 🤖
 
-## Preview: 
+A dynamic and interactive React app where users can search and filter robot friends. Developed during my journey to learn React, this project demonstrates key React concepts, component architecture, and modern UI practices.
 
-![grab-landing-page](https://github.com/mghaithm/Robofriends/blob/main/ezgif.com-gif-maker.gif)
+---
 
-## To run the project:
+## 📸 Preview
+![React Robofriends Preview](preview.gif)
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+---
+
+## 🚀 About This Project
+The **React Robofriends** project was originally built as part of my React learning journey. Recently, it was updated to **React 18** to support modern Node.js versions (including Node.js v22).
+
+### 💡 Key Learnings Demonstrated
+- **React 18 and ReactDOM.createRoot**
+- **Component-based architecture**
+- **State and props management**
+- **API fetching with fetch()**
+- **Event handling & user input**
+- **Dynamic filtering & search**
+- **Responsive UI with CSS & Tachyons**
+- **Modern JavaScript (ES6+)**
+
+---
+
+## 📥 Getting Started
+
+### Clone the Repository & Run the App
+```bash
+git clone https://github.com/mghaithm/React-Robofriends.git
+cd React-Robofriends
+npm install
+npm start
