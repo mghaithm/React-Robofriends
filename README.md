@@ -5,7 +5,7 @@ A dynamic and interactive React app where users can search and filter robot frie
 ---
 
 ## 📸 Preview
-![React Robofriends Preview](preview.gif)
+![React Robofriends Preview](ezgif.com-gif-maker.gif)
 
 ---
 
